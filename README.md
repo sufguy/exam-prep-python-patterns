@@ -8,7 +8,7 @@
 ![demo](https://github.com/bouzidanas/streamlit.io/assets/25779130/327fdefb-98e7-4798-887c-600092f86424)
 
 <p align="center">
-  [<a href="https://exam-prep-python-patterns-eamikl2qqsvrjrdwudul6z.streamlit.app/"> DEMO </a>] 
+  [<a href="тут будет ссылка"> DEMO </a>] 
 </p>
 
 ## Installation
